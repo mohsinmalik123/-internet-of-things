@@ -1,0 +1,1 @@
+Install git on your system and run git --version command on the bash. Take the screenshot and paste it into the Assignment 1 file. 
